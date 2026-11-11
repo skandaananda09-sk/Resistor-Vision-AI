@@ -1,4 +1,7 @@
 # 🔬 Resistor Vision AI
+## 🌐 Live Demo
+
+[Click here to try Resistor Vision AI](https://resistor-vision-ai-ggpjagpusne2lxfudw38qz.streamlit.app)
 
 An AI-powered resistor colour-band recognition and resistance calculation system using Google Gemini Vision and Python.
 
